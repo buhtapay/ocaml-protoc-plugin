@@ -1,5 +1,6 @@
 (library
  (name ocaml_protoc_plugin)
  (public_name ocaml-protoc-plugin)
+ (modes :standard melange)
  (synopsis "Serialization and deserialization of protobuf types")
 )
